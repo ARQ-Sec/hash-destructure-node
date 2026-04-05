@@ -1,0 +1,26 @@
+-- Synthetic reference DDL used to pad realistic repository shape.
+create table if not exists ref_34_01 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_02 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_03 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_04 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_05 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_06 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_07 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_08 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_09 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_10 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_11 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_12 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_13 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_14 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_15 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_16 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_17 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_18 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_19 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_20 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_21 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_22 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_23 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_24 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
+create table if not exists ref_34_25 (id varchar(36) primary key, detail varchar(255) not null, state varchar(32) not null);
